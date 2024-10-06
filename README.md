@@ -12,7 +12,6 @@ A high-school project investigating the [Mandelbrot set](https://en.wikipedia.or
 <p float="left">
   <image src="src/images/Blue.png" width="198"/>
   <image src="src/images/Green.png" width="198"/>
-  <image src="src/images/Cyan.png" width="198"/>
   <image src="src/images/Spiral.png" width="198"/>
   <image src="src/images/Pink.png" width="198"/>
 </p>
